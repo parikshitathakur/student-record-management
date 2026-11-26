@@ -1,9 +1,16 @@
-# Student Record Management System - Team 2 Implementation
+# Student Record Management System
 
-Add, search, update, delete and display student records.
+A beginner C project to store and manage student records using C structures.
 
-## How to Build & Execute
-```sh
-gcc -Wall main.c -o run_proj
-./run_proj
+### Features
+- Add new student details
+- Search student records
+- Display all student records
+- Simple and easy to understand console interface
+
+### How to Run
+Compile and run using GCC:
+```bash
+gcc main.c -o records
+./records
 ```
